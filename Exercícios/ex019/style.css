@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body{
+    background-color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: blueviolet;
+}
+
+#principal{
+    text-align: center;
+    background-color: rgb(0, 30, 128);
+}
+
+h2{
+    color: chocolate;
+}
+
+.basico{
+    color: rgb(5, 137, 253);
+    font-weight: bold;
+}
+
+.intermediario{
+    color: aqua;
+}
+
+.avancado{
+    color: deeppink;
+}
+
+.destaque{
+    background-color: orange;
+}

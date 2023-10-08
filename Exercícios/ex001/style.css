@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-color: blue;
+}
+
+h1{
+    color: azure;
+}
+p{
+    color: yellow;
+}
